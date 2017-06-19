@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/KwonChangMin/JavaTestMan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KwonChangMin/ImaBoy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\oracle\AndroidStudioProjects" />
